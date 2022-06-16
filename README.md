@@ -1,7 +1,6 @@
 
 ### Hi there 👋, Ronny Korneli
 #### Fullstack Web Developer
-![Fullstack Web Developer](https://github.com/RonnyKorneli/RonnyKorneli/blob/master/profImage.jpg)
 Skills:   REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on The final Project at DCI 
@@ -10,6 +9,8 @@ Skills:   REACT / JS / HTML / CSS
 - 😄 Pronouns: He 
 
 Entry level web developer with a passion for designing user friendly applications on the internet.
+![Fullstack Web Developer](https://github.com/RonnyKorneli/RonnyKorneli/blob/master/profImage.jpg)
+
 
 
 
