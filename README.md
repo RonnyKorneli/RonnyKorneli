@@ -3,16 +3,16 @@
 #### Fullstack Web Developer
 Skills:   REACT / JS / HTML / CSS
 
+
+![Fullstack Web Developer](https://github.com/RonnyKorneli/RonnyKorneli/blob/master/profImage.jpg)
+
+
 - 🔭 I’m currently working on The final Project at DCI 
 - 🌱 I’m currently learning MERN 
 - 📫 How to reach me: ronnykorneli@googlemail.com 
 - 😄 Pronouns: He 
 
 Entry level web developer with a passion for designing user friendly applications on the internet.
-![Fullstack Web Developer](https://github.com/RonnyKorneli/RonnyKorneli/blob/master/profImage.jpg)
-
-
-
 
 
 
