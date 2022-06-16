@@ -1,15 +1,12 @@
 
-### Hi there 👋, Ronny Korneli
-#### Fullstack Web Developer
+### Hi there 👋, 
+#### I`m Ronny Korneli and I am a Fullstack Web Developer
 ![Fullstack Web Developer](https://github.com/RonnyKorneli/RonnyKorneli/blob/master/mernDonuts.JPG)
-
-Entry level web developer with a passion for designing user friendly applications on the internet.
-
 
 Skills:   REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on The final Project at DCI 
-- 🌱 I’m currently learning MERN 
+- 🌱 I’m currently learning all things of the internet 
 - 📫 How to reach me: ronnykorneli@googlemail.com 
 - 😄 Pronouns: He 
 
