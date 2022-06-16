@@ -11,9 +11,9 @@ Skills:   REACT / JS / HTML / CSS
 - 📫 How to reach me: ronnykorneli@googlemail.com 
 - 😄 Pronouns: He 
 
-
+(https://www.linkedin.com/in/Ronny Korneli/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RonnyKorneli)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Ronny Korneli/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonnyKorneli&hide=contribs,prs)
 
