@@ -1,9 +1,8 @@
 
 ### Hi there 👋, 
 #### I`m Ronny Korneli and I am a Fullstack Web Developer
+Skills:   REACT / Express / MongoDB / JS / HTML / CSS
 ![Fullstack Web Developer](https://github.com/RonnyKorneli/RonnyKorneli/blob/master/mernDonuts.JPG)
-
-Skills:   REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on The final Project at DCI 
 - 🌱 I’m currently learning all things of the internet 
