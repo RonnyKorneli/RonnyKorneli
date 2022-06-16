@@ -6,7 +6,7 @@
 Skills:   REACT / JS / Express / MongoDB / HTML / CSS
 
 
-![Fullstack Web Developer](https://github.com/RonnyKorneli/RonnyKorneli/blob/master/profImage.jpg)
+![Fullstack Web Developer]https://github.com/RonnyKorneli/RonnyKorneli/blob/master/mernDonuts.JPG
 
 
 - 🔭 I’m currently working on The final Project at the one yearIntensive training at the DCI 
