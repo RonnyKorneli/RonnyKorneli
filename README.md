@@ -7,7 +7,7 @@ Skills:   REACT / JS / HTML / CSS
 ![Fullstack Web Developer](https://github.com/RonnyKorneli/RonnyKorneli/blob/master/profImage.jpg)
 
 
-- 🔭 I’m currently working on The final Project at DCI 
+- 🔭 I’m currently working on The final Project at the one yearIntensive training at the DCI 
 - 🌱 I’m currently learning MERN 
 - 📫 How to reach me: ronnykorneli@googlemail.com 
 - 😄 Pronouns: He 
