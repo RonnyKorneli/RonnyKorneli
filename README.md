@@ -4,6 +4,7 @@
 Entry level web developer with a passion for designing user friendly applications on the internet.
 
 
+
 Skills:   REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on The final Project at DCI 
