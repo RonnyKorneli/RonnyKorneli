@@ -3,6 +3,8 @@
 #### I`m Ronny Korneli and I am a Fullstack Web Developer
 Entry level web developer with a passion for designing user friendly applications on the internet.
 
+https://github.com/RonnyKorneli/RonnyKorneli/blob/master/profImage.jpg
+
 
 
 Skills:   REACT / JS / HTML / CSS
