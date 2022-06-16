@@ -2,7 +2,8 @@
 ### Hi there 👋, 
 #### I`m Ronny Korneli and I am a Fullstack Web Developer
 Skills:   REACT / Express / MongoDB / JS / HTML / CSS
-![Fullstack Web Developer](https://github.com/RonnyKorneli/RonnyKorneli/blob/master/mernDonuts.JPG)
+
+
 
 - 🔭 I’m currently working on The final Project at DCI 
 - 🌱 I’m currently learning all things of the internet 
@@ -13,5 +14,6 @@ Skills:   REACT / Express / MongoDB / JS / HTML / CSS
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonnyKorneli&show_icons=true&theme=cobalt)
+![Fullstack Web Developer](https://github.com/RonnyKorneli/RonnyKorneli/blob/master/mernDonuts.JPG)
 
 
