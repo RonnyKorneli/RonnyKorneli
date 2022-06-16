@@ -5,7 +5,7 @@ Skills:   REACT / Express / MongoDB / JS / HTML / CSS
 
 
 
-- 🔭 I’m currently working on The final Project at DCI 
+- 🔭 I’m currently working on The final Project for my fullstack developer training at the DCI
 - 🌱 I’m currently learning all things of the internet 
 - 📫 How to reach me: ronnykorneli@googlemail.com 
 - 😄 Pronouns: He 
