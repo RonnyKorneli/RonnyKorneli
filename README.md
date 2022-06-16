@@ -1,5 +1,5 @@
 
-### Hi there 👋, Ronny Korneli
+### Hi there 👋, I am Ronny Korneli
 #### Fullstack Web Developer
 Skills:   REACT / JS / HTML / CSS
 
