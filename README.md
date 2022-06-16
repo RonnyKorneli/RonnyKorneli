@@ -1,6 +1,6 @@
 
-### Hi there 👋, Ronny Korneli
-#### Fullstack Web Developer
+### Hi there 👋, 
+#### I`m Ronny Korneli Fullstack Web Developer
 Entry level web developer with a passion for designing user friendly applications on the internet.
 
 
