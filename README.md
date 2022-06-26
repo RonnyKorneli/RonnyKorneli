@@ -10,7 +10,7 @@ Skills:   REACT / Express / MongoDB / JS / HTML / CSS
 - 🔭 I’m currently working on The final Project for my fullstack developer training at the DCI.
      The Project is called Nest and its a platform where refugees can find housing for short and long periods.
      You can follow our project down underneath in the pinned Repo`s "Nest" and "Nest-Backend"
-- 🌱 I’m currently learning all things of the internet 
+- 🌱 I’m currently learning all basics, relating to MERN Stack applications.  
 - 📫 How to reach me: ronnykorneli@googlemail.com 
 - 😄 Pronouns: He 
 
