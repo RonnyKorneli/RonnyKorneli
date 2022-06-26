@@ -18,6 +18,8 @@ Skills:   REACT / Express / MongoDB / JS / HTML / CSS
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonnyKorneli&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyKorneli)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
