@@ -17,7 +17,7 @@ Skills:   REACT / Express / MongoDB / JS / HTML / CSS
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonnyKorneli&show_icons=true&theme=cobalt)
-![Fullstack Web Developer](https://github.com/RonnyKorneli/RonnyKorneli/blob/master/mernDonuts.JPG)
+
 
 
 
