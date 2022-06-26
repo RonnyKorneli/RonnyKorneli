@@ -5,6 +5,7 @@
 #### I`m Ronny Korneli and I am a Fullstack Web Developer
 Skills:   REACT / Express / MongoDB / JS / HTML / CSS
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
