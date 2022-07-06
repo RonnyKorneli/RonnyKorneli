@@ -18,10 +18,8 @@
 
 
 
-- 🔭 I’m currently working on the final project for my fullstack developer training at the DCI.
-     The Project is called Nest and its a platform where refugees can find housing for short and long periods.
-     You can follow our project down underneath in the pinned Repo`s "Nest" and "Nest-Backend"
-- 🌱 I’m currently learning and strengthening my basic knowledge, relating to MERN Stack applications.  
+- 🔭 I’m currently co-creating a platform where refugees can find housing for short and long periods.
+     You can follow our project down underneath in the pinned Repo`s "Nest" and "Nest-Backend"  
 - 📫 How to reach me: ronnykorneli@googlemail.com 
 - 😄 Pronouns: He 
 
