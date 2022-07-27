@@ -1,6 +1,6 @@
 
 
-<img src='https://prod.spline.design/EQtuUAgwTdNK1vqS/scene.splinecode'/>
+<img src='https://prod.spline.design/EQtuUAgwTdNK1vqS/scene.splinecode' />
 ### Hi there 👋, 
 #### I`m Ronny Korneli and I am a MERN Stack Web Developer
 ## SKILLS:   
