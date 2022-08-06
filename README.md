@@ -18,8 +18,7 @@
 
 
 
-- 🔭 I’m currently co-creating a platform where refugees can find housing for short and long periods.
-     You can follow our project down underneath in the pinned Repo`s "Nest" and "Nest-Backend"  
+- 🔭 I am currently learning how Spline, an absolutely cool 3D programm that fits well with REACT.
 - 📫 How to reach me: ronnykorneli@googlemail.com 
 - 😄 Pronouns: He 
 
