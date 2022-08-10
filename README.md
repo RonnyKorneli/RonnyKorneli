@@ -18,7 +18,7 @@
 
 
 
-- 🔭 I am currently learning how to use Spline, an absolutely cool 3D programm that fits well with REACT.
+- 🔭 I am currently learning how to use Spline, an absolutely amazing 3D programm that fits well with REACT.
 - 📫 How to reach me: ronnykorneli@googlemail.com 
 - 😄 Pronouns: He 
 
