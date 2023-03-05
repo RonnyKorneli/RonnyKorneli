@@ -19,7 +19,7 @@
 
 
 
-- 🔭 I am currently learning Next.js and Typescript, and I am playing around with Framer Motion. Great to be a web dev in 2022 :-)
+- 🔭 I am currently learning Next.js and Typescript, and I am playing around with Framer Motion. Great to be a web dev in 2023 :-)
 - 📫 How to reach me: ronnykorneli@googlemail.com 
 - 😄 Pronouns: He 
 
