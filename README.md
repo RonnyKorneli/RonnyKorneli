@@ -26,10 +26,10 @@
 
 ![linkedin 256x256 (1)](https://github.com/RonnyKorneli/RonnyKorneli/assets/84308318/645a6b1f-7ad4-4dbe-8abc-5812aa37e303)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/RonnyKorneli/)  
+[<img src='https://github.com/RonnyKorneli/RonnyKorneli/assets/84308318/645a6b1f-7ad4-4dbe-8abc-5812aa37e303' alt='linkedin' height='40'>](https://www.linkedin.com/in/RonnyKorneli/)  
 
 
-![linkedin](https://github.com/RonnyKorneli/RonnyKorneli/assets/84308318/93913618-d9dc-45cc-b4c5-9f9c8d2577a0)
+
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RonnyKorneli&show_icons=true&theme=cobalt" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyKorneli&layout=compact" />
