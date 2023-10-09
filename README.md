@@ -28,7 +28,7 @@
 
 [<img src='https://github.com/RonnyKorneli/RonnyKorneli/assets/84308318/645a6b1f-7ad4-4dbe-8abc-5812aa37e303' alt='linkedin' height='40'>](https://www.linkedin.com/in/RonnyKorneli/)  
 
-
+[![linkedin 256x256 (1)]((https://github.com/RonnyKorneli/RonnyKorneli/assets/84308318/645a6b1f-7ad4-4dbe-8abc-5812aa37e303))](https://www.linkedin.com/in/ronny-korneli/)
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RonnyKorneli&show_icons=true&theme=cobalt" />
