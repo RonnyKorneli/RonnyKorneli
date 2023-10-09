@@ -3,6 +3,7 @@
 🚀 I am Crafting code, bridging bytes, and pushing pixels to the next frontier!
 
 #### Currently working as a Frontend web dev at Preis.de.
+![](https://komarev.com/ghpvc/?username=RonnyKorneli)
 ## SKILLS:   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -28,7 +29,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RonnyKorneli&show_icons=true&theme=cobalt" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyKorneli&layout=compact" />
 
-![](https://komarev.com/ghpvc/?username=RonnyKorneli)
+
 
 
 
