@@ -5,6 +5,7 @@
 #### Currently working as a Frontend web dev at Preis.de.
 
 ## SKILLS:   
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=black)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -20,8 +21,9 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
+- 📫 How to reach me: ronnykorneli@googlemail.com
 
-- 📫 How to reach me: ronnykorneli@googlemail.com 
+  ![linkedIn](https://github.com/RonnyKorneli/RonnyKorneli/assets/84308318/c4880aab-49db-44ac-b60e-c4f6504a352c)
 
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/RonnyKorneli/)  
