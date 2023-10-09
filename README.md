@@ -22,7 +22,7 @@
 
 
 
-- 🚀 Crafting code, bridging bytes, and pushing pixels to the next frontier!
+- 🚀 At the moment I am Crafting code, bridging bytes, and pushing pixels to the next frontier!
 - 📫 How to reach me: ronnykorneli@googlemail.com 
 
 
