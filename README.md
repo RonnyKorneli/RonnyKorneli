@@ -34,7 +34,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RonnyKorneli&show_icons=true&theme=cobalt" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyKorneli&layout=compact" />
 
-[<img src="https://github.com/RonnyKorneli/RonnyKorneli/assets/84308318/645a6b1f-7ad4-4dbe-8abc-5812aa37e303">]((https://www.linkedin.com/in/ronny-korneli/))
+[<img src="https://github.com/RonnyKorneli/RonnyKorneli/assets/84308318/645a6b1f-7ad4-4dbe-8abc-5812aa37e303">](https://www.linkedin.com/in/ronny-korneli/)
 
 #### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/RonnyKorneli/count.svg)
