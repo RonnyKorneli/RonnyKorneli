@@ -24,7 +24,7 @@
 - 📫 How to reach me: ronnykorneli@googlemail.com
 
 
-![linkedin 256x256 (1)](https://github.com/RonnyKorneli/RonnyKorneli/assets/84308318/645a6b1f-7ad4-4dbe-8abc-5812aa37e303)(https://www.linkedin.com/in/ronny-korneli/)
+![linkedin 256x256 (1)](https://github.com/RonnyKorneli/RonnyKorneli/assets/84308318/645a6b1f-7ad4-4dbe-8abc-5812aa37e303)](https://www.linkedin.com/in/ronny-korneli/)
 
 [<img src='https://github.com/RonnyKorneli/RonnyKorneli/assets/84308318/645a6b1f-7ad4-4dbe-8abc-5812aa37e303' alt='linkedin' height='40'>](https://www.linkedin.com/in/RonnyKorneli/)  
 
