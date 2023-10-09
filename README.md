@@ -29,7 +29,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RonnyKorneli&show_icons=true&theme=cobalt" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyKorneli&layout=compact" />
 
-![](https://komarev.com/ghpvc/?username=RonnyKorneli)
+#### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/RonnyKorneli/count.svg)
 
 
