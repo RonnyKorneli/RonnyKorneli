@@ -23,10 +23,7 @@
 
 - 📫 How to reach me: ronnykorneli@googlemail.com
 
-  ![linkedIn](https://github.com/RonnyKorneli/RonnyKorneli/assets/84308318/c4880aab-49db-44ac-b60e-c4f6504a352c)
-
-
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/RonnyKorneli/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/RonnyKorneli/)  
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RonnyKorneli&show_icons=true&theme=cobalt" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyKorneli&layout=compact" />
