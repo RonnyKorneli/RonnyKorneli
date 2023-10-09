@@ -1,8 +1,7 @@
 
 
 
-### Hi there 👋, 
-#### 🌐 Navigating the digital cosmos with a blend of tech skills and teamwork. Meet Ronny Korneli!
+### 🌐 Navigating the digital cosmos with a blend of tech skills and teamwork. Meet Ronny Korneli!
 #### Currently working as a web dev at Preis.de.
 ## SKILLS:   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
