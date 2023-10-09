@@ -1,6 +1,4 @@
 
-
-
 ### Hi, I am Ronny 
 and I Navigate the digital cosmos 🌐 with a blend of tech skills and teamwork.
 #### Currently working as a Frontend web dev at Preis.de.
