@@ -23,7 +23,7 @@
 
 - 📫 How to reach me: ronnykorneli@googlemail.com
 
-![linkedin 256x256 (1)](https://github.com/RonnyKorneli/RonnyKorneli/assets/84308318/b456bc7c-c7c2-47e8-a05a-65bf76b309ee)
+![linkedin 256x256 (1)]((https://www.linkedin.com/in/RonnyKorneli/))
 
 
 
