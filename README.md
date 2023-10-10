@@ -27,6 +27,8 @@
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=RonnyKorneli&show_icons=true&theme=cobalt" />
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyKorneli&layout=compact" />
 
+<img height="137px" src="https://camo.githubusercontent.com/1eb78e39cb7fc8e7539e1f706924cf1a7b31b19612856bdb9743992b040ae183/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7261316e626f773126686964655f7469746c653d7472756526686964655f626f726465723d747275652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c696e655f6865696768743d323126746578745f636f6c6f723d3030302669636f6e5f636f6c6f723d3030302662675f636f6c6f723d302c6561363136312c6666633634642c6666666334642c353266613561267468656d653d677261797768697465" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ra1nbow1&amp;hide_title=true&amp;hide_border=true&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;line_height=21&amp;text_color=000&amp;icon_color=000&amp;bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&amp;theme=graywhite" style="max-width: 100%;">
+
 
 
 ### Visitor Count 
