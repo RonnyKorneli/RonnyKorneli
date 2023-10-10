@@ -1,6 +1,6 @@
 
 ### Hi, I am Ronny 
-🚀 I am Crafting code, bridging bytes, and pushing pixels to the next frontier!
+🚀 Crafting code, bridging bytes, and pushing pixels to the next frontier!
 
 #### Currently working as a Frontend web dev at Preis.de.
 
