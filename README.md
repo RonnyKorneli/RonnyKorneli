@@ -24,8 +24,8 @@
 - 📫 How to reach me: ronnykorneli@googlemail.com
 
 
-<img align="left" width="47%" display="block" src="https://github-readme-stats.vercel.app/api?username=RonnyKorneli&show_icons=true&theme=cobalt" />
-<img align="left" width="47%" display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyKorneli&layout=compact" />
+<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=RonnyKorneli&show_icons=true&theme=cobalt" />
+<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyKorneli&layout=compact" />
 
 
 
