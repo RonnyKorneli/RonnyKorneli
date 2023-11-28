@@ -22,7 +22,7 @@
 
 
 - 📫 How to reach me: ronnykorneli@googlemail.com
-### My current Comapny uses SAML single sign-on (SSO) which means my commits and PR are not being shown in the down below record of contributions
+### My current Company uses SAML single sign-on (SSO), which means my commits and PR are not being shown in GitHub`s record of contributions
 
 
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=RonnyKorneli&show_icons=true&theme=cobalt" />
