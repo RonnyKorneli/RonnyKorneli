@@ -32,7 +32,7 @@
 ### Visitor Count 
 ![Visitor Count](https://profile-counter.glitch.me/RonnyKorneli/count.svg)  
 
-### My current Company uses SAML single sign-on (SSO), which means my commits and PR´s are not being shown in GitHub`s record of contributions
+
 
 
 
