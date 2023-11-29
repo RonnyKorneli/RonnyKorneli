@@ -25,7 +25,6 @@
 
 
 
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=RonnyKorneli&show_icons=true&theme=cobalt" />
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyKorneli&layout=compact" />
 
 
